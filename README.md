@@ -9,7 +9,7 @@ Videogames App: Individual Project made for Henry Bootcamp
 <img
   src="https://github.com/deborahKollman/deborahKollman/blob/main/landing.png"
   alt="Landing page"
-  style="width:50px">
+  style="width:300px">
 
 
 <!--
