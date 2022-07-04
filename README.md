@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Deborah 👋
+
+Full Stack Web Developer
+
+⚡ My projects:
+
+Videogames App: Individual Project made for Henry Bootcamp
+
+
 
 <!--
 **deborahKollman/deborahKollman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
