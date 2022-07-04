@@ -5,7 +5,7 @@ Full Stack Web Developer
 ⚡ My projects:
 
 Videogames App: Individual Project made for Henry Bootcamp
-<p float="left" >
+<p align="center">
 <img
   src="https://github.com/deborahKollman/deborahKollman/blob/main/landing.png"
   alt="Landing page"
