@@ -5,27 +5,23 @@ Full Stack Web Developer
 ⚡ My projects:
 
 Videogames App: Individual Project made for Henry Bootcamp
-<p align="center">
-<img
-  src="https://github.com/deborahKollman/deborahKollman/blob/main/landing.png"
-  alt="Landing page"
-  style="width:300px" />
-  
-<img
-  src="https://github.com/deborahKollman/deborahKollman/blob/main/home.png"
-  alt="Home page"
-  style="width:300px" />
-  
-<img
-  src="https://github.com/deborahKollman/deborahKollman/blob/main/search.png"
-  alt="Search and filter"
-  style="width:300px" />
-  
-<img
-  src="https://github.com/deborahKollman/deborahKollman/blob/main/create.png"
-  alt="Creation page"
-  style="width:300px" />
-
+<p align="left">
+  <img
+    src="https://github.com/deborahKollman/deborahKollman/blob/main/landing.png"
+    alt="Landing page"
+    style="width:300px" />
+  <img
+    src="https://github.com/deborahKollman/deborahKollman/blob/main/home.png"
+    alt="Home page"
+    style="width:300px" /> 
+  <img
+    src="https://github.com/deborahKollman/deborahKollman/blob/main/search.png"
+    alt="Search and filter"
+    style="width:300px" />
+  <img
+    src="https://github.com/deborahKollman/deborahKollman/blob/main/create.png"
+    alt="Creation page"
+    style="width:300px" />
 </p>
   
 <!--
