@@ -5,7 +5,7 @@ Full Stack Web Developer
 ⚡ My projects:
 
 Videogames App: Individual Project made for Henry Bootcamp
-
+<div style="display:flex">
 <img
   src="https://github.com/deborahKollman/deborahKollman/blob/main/landing.png"
   alt="Landing page"
@@ -26,7 +26,8 @@ Videogames App: Individual Project made for Henry Bootcamp
   alt="Creation page"
   style="width:300px">
 
-
+</div>
+  
 <!--
 **deborahKollman/deborahKollman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
