@@ -6,6 +6,10 @@ Full Stack Web Developer
 
 Videogames App: Individual Project made for Henry Bootcamp
 
+![image](https://user-images.githubusercontent.com/62625130/177224768-06dc8f6e-175f-451f-b479-c257b7573e7c.png)
+![image](https://user-images.githubusercontent.com/62625130/177224799-413b884d-5618-45e4-8aa1-dfd39dfb79b8.png)
+![image](https://user-images.githubusercontent.com/62625130/177224815-a2891a85-12a2-4315-9ba6-5a1e985f0042.png)
+![image](https://user-images.githubusercontent.com/62625130/177224830-72320927-212f-4029-957a-f2af0beef8ed.png)
 
 
 <!--
