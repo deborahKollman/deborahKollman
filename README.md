@@ -30,6 +30,7 @@ Videogames App: Individual Project made for Henry Bootcamp
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" alt="html"/>
   <img src="https://cdn.icon-icons.com/icons2/2790/PNG/128/css_filetype_icon_177544.png" alt="css"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_original_wordmark_logo_icon_146412.png" alt"node js"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_wordmark_logo_icon_146375.png" alt="react"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_wordmark_logo_icon_146349.png" alt="sequelize"/>
   <img src"https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png"  alt="express"/>
