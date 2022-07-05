@@ -4,7 +4,7 @@ Full Stack Web Developer
 
 ## ✍️ My projects:
 
-### <a hrfe="https://videogames-pi.vercel.app">Videogames App: Individual Project made for Henry Bootcamp</a>
+### Videogames App: Individual Project made for Henry Bootcamp
 <p align="left">
   <img
     src="https://github.com/deborahKollman/deborahKollman/blob/main/landing.png"
@@ -24,7 +24,7 @@ Full Stack Web Developer
     style="width:250px" />
 </p>
 
-
+<a hrfe="https://videogames-pi.vercel.app"><p>Link here</p></a>
   
 ## 📖 Languages and Tool: 
 
