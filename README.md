@@ -2,6 +2,10 @@
 
 Full Stack Web Developer
 
+## ☝️ About me:
+
+I'm passionate about coding and I'm constantly learning. 
+
 ## ✍️ My projects:
 
 ### Videogames App: Individual Project made for Henry Bootcamp
@@ -24,7 +28,7 @@ Full Stack Web Developer
     style="width:250px" />
 </p>
 
-<a href="https://videogames-pi.vercel.app"><p>Link here</p></a>
+<a href="https://videogames-pi.vercel.app"><p>Check it out</p></a>
   
 ## 📖 Languages and Tool: 
 
@@ -38,6 +42,12 @@ Full Stack Web Developer
   <img src"https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png"  alt="express"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql"/>
 </p>
+
+## 📫 Contact
+
+<a href="deborahkollman@gmail.com"><p>mail</p></a>
+<a href="https://www.linkedin.com/in/deborah-anahi-kollman-b0977322b/"><p>LinkedIn</p></a>
+
 
 <!--
 **deborahKollman/deborahKollman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
