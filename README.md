@@ -43,6 +43,10 @@ I'm passionate about coding and I'm constantly learning.
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql"/>
 </p>
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahKollman)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 CONTACT ME
 
 <a href="deborahkollman@gmail.com"><p>Email</p></a>
