@@ -2,7 +2,7 @@
 
 Full Stack Web Developer
 
-##✍️ My projects:
+## ✍️ My projects:
 
 Videogames App: Individual Project made for Henry Bootcamp
 <p align="left">
@@ -26,7 +26,7 @@ Videogames App: Individual Project made for Henry Bootcamp
 
 <a hrfe="https://videogames-pi.vercel.app">Link</a>
   
-##📖 Languages and Tool: 
+## 📖 Languages and Tool: 
 
 
 <p align="left">
