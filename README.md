@@ -28,12 +28,12 @@ Videogames App: Individual Project made for Henry Bootcamp
 
 
 <p align="left">
-  <img src="https://cdn-icons.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1656979938~hmac=342b6336c90f147edd9ec498eb2d6caf" />
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" />
-  <img src="https://cdn-icons.flaticon.com/png/128/2085/premium/2085163.png?token=exp=1656980090~hmac=27c5350f780787e6bd7080216a083e54" />
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_wordmark_logo_icon_146349.png" />
-  <img src"https://cdn.icon-icons.com/icons2/2415/PNG/128/express_original_wordmark_logo_icon_146528.png" />
+  <img src="[https://cdn-icons.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1656979938~hmac=342b6336c90f147edd9ec498eb2d6caf](https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png)" alt="html"/>
+  <img src="[https://cdn-icons-png.flaticon.com/128/919/919825.png](https://cdn.icon-icons.com/icons2/2790/PNG/128/css_filetype_icon_177544.png)" alt="css"/>
+  <img src="[https://cdn-icons.flaticon.com/png/128/2085/premium/2085163.png?token=exp=1656980090~hmac=27c5350f780787e6bd7080216a083e54](https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_wordmark_logo_icon_146375.png)" alt="react"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_wordmark_logo_icon_146349.png" alt="sequelize"/>
+  <img src"https://cdn.icon-icons.com/icons2/2415/PNG/128/express_original_wordmark_logo_icon_146528.png" alt="express"/>
+    <img src="[https://cdn-icons-png.flaticon.com/128/5968/5968342.png](https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png)" alt="postgresql"/>
 </p>
 
 <!--
