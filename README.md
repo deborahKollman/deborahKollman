@@ -6,6 +6,8 @@ Full Stack Web Developer
 
 I'm passionate about coding and I'm constantly learning. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahKollman)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ✍️ My projects:
 
 ### Videogames App: Individual Project made for Henry Bootcamp
@@ -37,15 +39,15 @@ I'm passionate about coding and I'm constantly learning.
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" alt="html"/>
   <img src="https://cdn.icon-icons.com/icons2/2790/PNG/128/css_filetype_icon_177544.png" alt="css"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/nodejs_original_wordmark_logo_icon_146412.png" alt"node js"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" alt="javascript"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_wordmark_logo_icon_146375.png" alt="react"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" alt="redux"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_wordmark_logo_icon_146349.png" alt="sequelize"/>
   <img src"https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png"  alt="express"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" alt="java"/>
 </p>
 
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahKollman)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 CONTACT ME
 
