@@ -24,7 +24,7 @@ Full Stack Web Developer
     style="width:250px" />
 </p>
 
-<a hrfe="https://videogames-pi.vercel.app"><p>Link here</p></a>
+<a href="https://videogames-pi.vercel.app"><p>Link here</p></a>
   
 ## 📖 Languages and Tool: 
 
