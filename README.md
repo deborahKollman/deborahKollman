@@ -30,7 +30,7 @@ I'm passionate about coding and I'm constantly learning.
 
 <a href="https://videogames-pi.vercel.app"><p>Check it out</p></a>
   
-## 📖 Languages and Tool: 
+## 📖 Languages and Tools: 
 
 
 <p align="left">
@@ -43,9 +43,9 @@ I'm passionate about coding and I'm constantly learning.
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql"/>
 </p>
 
-## 📫 Contact
+## 📫 CONTACT ME
 
-<a href="deborahkollman@gmail.com"><p>mail</p></a>
+<a href="deborahkollman@gmail.com"><p>Email</p></a>
 <a href="https://www.linkedin.com/in/deborah-anahi-kollman-b0977322b/"><p>LinkedIn</p></a>
 
 
