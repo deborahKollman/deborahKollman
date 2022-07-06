@@ -25,8 +25,16 @@ I'm passionate about coding and I'm constantly learning.
     alt="Search and filter"
     style="width:250px" />
   <img
+    src="https://github.com/deborahKollman/deborahKollman/blob/main/detail.png"
+    alt="Detail page"
+    style="width:250px" />
+  <img
     src="https://github.com/deborahKollman/deborahKollman/blob/main/create.png"
     alt="Creation page"
+    style="width:250px" />
+  <img
+    src="https://github.com/deborahKollman/deborahKollman/blob/main/about.png"
+    alt="About page"
     style="width:250px" />
 </p>
 
