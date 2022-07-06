@@ -53,7 +53,7 @@ I'm passionate about coding and I'm constantly learning.
 
 <a href="deborahkollman@gmail.com"><p>Email</p></a>
 <a href="https://www.linkedin.com/in/deborah-anahi-kollman-b0977322b/"><p>LinkedIn</p></a>
-
+<p>Phone number: +54 223561129<p>
 
 <!--
 **deborahKollman/deborahKollman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
